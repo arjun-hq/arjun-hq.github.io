@@ -1,0 +1,8 @@
+# OS noise
+.DS_Store
+
+# Temporary extraction folder for docx assets
+brief_extracted/
+
+# Source documents (not part of the published site)
+*.docx
