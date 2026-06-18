@@ -4,5 +4,8 @@
 # Temporary extraction folder for docx assets
 brief_extracted/
 
+# Source image folder for manual edits (not part of the published site)
+edits/
+
 # Source documents (not part of the published site)
 *.docx
